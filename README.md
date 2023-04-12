@@ -53,4 +53,19 @@
   </tr>
 </table>
 
-<p>You are required to perform necessary data analysis/ EDA and extract meaningful insights from this dataset and Finally build a model using this dataset to predict the sales.</p>
+<p>You are required to perform necessary data analysis/ EDA and extract meaningful insights from this dataset and finally build a model using this dataset to predict the sales.</p>
+
+## Python Libraries Used
+
+<ul>
+  <li>Numpy</li>
+  <li>Pandas</li>
+  <li>Matplotlib</li>
+  <li>Seaborn</li>
+  <li>Scipy</li>
+  <li>Scikit-learn</li>
+  <li>XGBoost</li>
+  <li>CatBoost</li>
+  <li>LightGBM</li>
+  <li>Joblib</li>
+ </ul>
