@@ -1,0 +1,18 @@
+You are provided with the weekly spends on different marketing channels of an XYZ company for a period from 2015 to 2019. The variables in the dataset are described as follows:
+
+DATE: date in YYYY-MM-DD format
+Sales: Weekly revenue figure made by the comapany
+TV_Spends: Weekly spends on TV advertisements
+OOH_Spends: Weekly spends on Outdoor Medium
+Print_Spends: Weekly spends on Print Medium like TV and magazines
+FB_Impressions: Weekly Impressions of ads on Facebook |  impressions can be described as views that a particular ad received on facebook
+FB_Spends: Weekly spends on Facebook Ads
+Search_Spends: Weekly spends on paid search results. These are spends done to get the paid advertisements on the search results.
+Paid_Search_Clicks : Weekly clicks on the paid advertisement 
+events: Events can be described as festivals or promotional events done by the company. This is a categorical variable
+competitor_sales_B: Sales figure of the competition product
+
+You are required to perform necessary data analysis/ EDA and extract meaningful insights from this dataset and Finally build a model using this dataset to predict the sales.
+
+
+
